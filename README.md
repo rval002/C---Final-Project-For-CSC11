@@ -3,6 +3,7 @@
  
 
 # Brick Breaker 
+Note that some of the source code is missing, Executable and the associated files are still acsessible 
 
 Screen Loads Up; X the window to Exit the game. Screen is non Resizeable.
 Game initializes SDL_Systems
